@@ -28,3 +28,9 @@ get '/three' do
   erb :three
 
 end
+
+get '/four' do
+
+  erb :four
+
+end
